@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d24db9b0.css",
-    "main.js": "/Portfolio/static/js/main.d806e100.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/Portfolio/static/js/787.9e9f4ffd.chunk.js",
-    "index.html": "/Portfolio/index.html",
-    "static/media/Tuning.svg": "/Portfolio/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
-    "static/media/Down.svg": "/Portfolio/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
-    "main.d24db9b0.css.map": "/Portfolio/static/css/main.d24db9b0.css.map",
-    "main.d806e100.js.map": "/Portfolio/static/js/main.d806e100.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/Portfolio/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/Srishti262/Kanban_Board_Application.git/static/css/main.d24db9b0.css",
+    "main.js": "/Srishti262/Kanban_Board_Application.git/static/js/main.e098cfed.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Srishti262/Kanban_Board_Application.git/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/Srishti262/Kanban_Board_Application.git/index.html",
+    "static/media/Tuning.svg": "/Srishti262/Kanban_Board_Application.git/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/Srishti262/Kanban_Board_Application.git/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.d24db9b0.css.map": "/Srishti262/Kanban_Board_Application.git/static/css/main.d24db9b0.css.map",
+    "main.e098cfed.js.map": "/Srishti262/Kanban_Board_Application.git/static/js/main.e098cfed.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Srishti262/Kanban_Board_Application.git/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d24db9b0.css",
-    "static/js/main.d806e100.js"
+    "static/js/main.e098cfed.js"
   ]
 }
